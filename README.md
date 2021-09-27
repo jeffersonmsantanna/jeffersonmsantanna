@@ -2,7 +2,7 @@
 
 
 - 🎓 Sou formado em Análise e desenvolvimento de sistemas.
-- 👨‍💻 Desejo me tornar desenvolvedor Front-end.
+- 👨‍💻 Desejo atuar na área de TI.
 - 📘 Gosto de aprender coisas novas e estou aberto para mudanças.
 
 ## Atualmente estudando JavaScript pela plataforma Alura.
@@ -18,7 +18,7 @@
     <img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmsantanna&layout=compact&langs_count=7&theme=vue-dark"/>
   </div>
   
-  ## Linguagens com as quais ja criei projetos
+  ## Linguagens
   <div style="display: inline_block"><br>
     <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
